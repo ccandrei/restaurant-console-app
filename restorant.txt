@@ -1,0 +1,5 @@
+couscous;1000
+tacos;2235
+burger;3000
+sandwish;2000
+tacos;1500
